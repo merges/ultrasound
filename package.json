@@ -1,0 +1,19 @@
+{
+  "name": "ultrasound",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merges/ultrasound.git"
+  },
+  "author": "adam baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merges/ultrasound/issues"
+  },
+  "homepage": "https://github.com/merges/ultrasound#readme"
+}
